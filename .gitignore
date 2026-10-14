@@ -1,0 +1,6 @@
+readitfirst.md
+results/*
+personas/*
+mirror/
+__pycache__/
+*.pyc
